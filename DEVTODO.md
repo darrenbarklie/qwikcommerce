@@ -1,0 +1,4 @@
+- [] Watch/rewatch [Theo/Misko livestream](https://www.youtube.com/watch?v=fa6-Mn0Eybg&t=2s&ab_channel=Theo-ping%E2%80%A4gg)
+- [] Review [Qwik homepage](https://qwik.builder.io/)
+- [] Compile notes in repo to capture the core concepts of the framework
+- [] Consider technical use cases or business opportunities
